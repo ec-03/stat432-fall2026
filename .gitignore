@@ -16,6 +16,8 @@
 !/homework/week-[0-9][0-9]/
 /homework/week-[0-9][0-9]/*
 !/homework/week-[0-9][0-9]/homework-[0-9][0-9].pdf
+!/homework/week-05/*.ipynb
+!/homework/week-05/SKILL.md
 !/homework/week-[0-9][0-9]/homework-[0-9][0-9].html
 
 # Keep only final-project files.
